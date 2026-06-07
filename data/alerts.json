@@ -1,1 +1,9 @@
 []
+[
+  {
+    "source": "Firewall",
+    "severity": "High",
+    "event": "Multiple Failed Logins",
+    "ip": "192.168.1.10"
+  }
+]

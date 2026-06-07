@@ -1,0 +1,20 @@
+[
+    {
+        "source": "Firewall",
+        "severity": "High",
+        "event": "Multiple Failed Logins",
+        "ip": "192.168.1.10"
+    },
+    {
+        "source": "Firewall",
+        "severity": "High",
+        "event": "Failed to login Attempts",
+        "ip": "10.0.0.5"
+    },
+    {
+        "source": "Firewall",
+        "severity": "High",
+        "event": "Failed to login Attempts",
+        "ip": "10.0.0.5"
+    }
+]
